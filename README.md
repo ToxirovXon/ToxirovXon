@@ -38,4 +38,4 @@
 
 <h2 align="center">Watch my contribution graph being eaten by a Snake! 🐍<h2>
 
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/toxirovxon/toxirovxon/master/snake.svg)
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/ToxirovXon/ToxirovXon/master/snake.svg)
