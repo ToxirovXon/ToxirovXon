@@ -35,8 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toxirovxon&show_icons=true&locale=en" alt="toxirovxon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toxirovxon&" alt="toxirovxon" /></p>
-
-<h2 align="center">Watch my contribution graph being eaten by a Snake! 🐍<h2>
-
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/soburjon19/soburjon19/master/snake.svg)
-
